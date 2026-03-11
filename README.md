@@ -29,6 +29,7 @@ Madison Hauptmann
 ### Credit to "Tech With Tim" on YouTube
 
 Thanks for the guide!
+* [The tutorial I used!](https://youtu.be/YD_N6Ffoojw?si=r74XgO8b5SLBGDzQ)
 
 ## Images
 
