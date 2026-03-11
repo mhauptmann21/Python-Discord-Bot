@@ -3,6 +3,9 @@
 ## Description
 I created a simple Discord bot using Python so that server members can access easy commands!
 
+## How to Use
+To use the bot, an API token is required from the Discord developer site.
+
 ## List of Events
 * When the program is run, "We are ready to go in, {bot.user.name}!" will print.
 * When a member joins the server, the bot will send "Welcome to the server, {member.name}!".
@@ -21,6 +24,7 @@ I created a simple Discord bot using Python so that server members can access ea
 ## Authors
  
 Madison Hauptmann  
+* mhauptmann21.github.io/Personal-Portfolio/
 
 ### Credit to "Tech With Tim" on YouTube
 
