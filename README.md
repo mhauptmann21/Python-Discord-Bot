@@ -24,7 +24,7 @@ To use the bot, an API token is required from the Discord developer site.
 ## Authors
  
 Madison Hauptmann  
-* [Madison Hauptmann](https://github.com/mhauptmann21/Personal-Portfolio)
+* [My portfolio!](https://github.com/mhauptmann21/Personal-Portfolio)
 
 ### Credit to "Tech With Tim" on YouTube
 
